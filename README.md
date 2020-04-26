@@ -7,9 +7,13 @@ You all know that the whole world fight against coronavirus (covid19).
 During this pandemic situation, we used our time to develop website know as " COVID19 Tracker " which Trackers all world statistics, particular country wise statistics as well as all information about COVID19 like how to protect ourself.
 
 Features
+
 Know More about Covid19
+
 Tracker the Covid19
+
 Country Statistics
+
 How to Protect our self
   
 
